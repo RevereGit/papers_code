@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/arrow1.gif</file>
+        <file>image/bac1.jpg</file>
+        <file>image/back1.png</file>
+        <file>image/bgp.jpg</file>
+        <file>image/contrast.jpg</file>
+        <file>image/effects.jpg</file>
+        <file>image/exposure.jpg</file>
+        <file>image/flip.jpg</file>
+        <file>image/main_1.jpg</file>
+        <file>image/main_2.jpg</file>
+        <file>image/main_3.jpg</file>
+        <file>image/open.jpg</file>
+        <file>image/rotate.jpg</file>
+        <file>image/saturation.jpg</file>
+        <file>image/save.jpg</file>
+        <file>image/wel.png</file>
+    </qresource>
+</RCC>
